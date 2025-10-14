@@ -42,6 +42,7 @@ Research Papers:
 - MemoryBank: Enhancing Large Language Models with Long-Term Memory. [Paper](https://arxiv.org/abs/2305.10250)
 - Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [Paper](https://arxiv.org/abs/2504.19413)
 - Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework. [Paper](https://arxiv.org/abs/2508.16629)
+- Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [Paper] (https://arxiv.org/abs/2510.04618)
 - LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation. [Paper](https://arxiv.org/abs/2510.04851)
 - Auto-scaling Continuous Memory for GUI Agent. [Paper](https://arxiv.org/abs/2510.09038)
 
