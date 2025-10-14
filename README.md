@@ -34,8 +34,6 @@ Key challenges:
 
 ## Main Content
 
-TBD
-
 Research Papers:
 
 - A Survey on the Memory Mechanism of Large Language Model based Agents. [Paper](https://arxiv.org/abs/2404.13501)
@@ -43,6 +41,8 @@ Research Papers:
 - ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory. [Paper](https://arxiv.org/abs/2509.25140)
 - MemoryBank: Enhancing Large Language Models with Long-Term Memory. [Paper](https://arxiv.org/abs/2305.10250)
 - Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [Paper](https://arxiv.org/abs/2504.19413)
+
+TBD
 
 #### Note: this repo is a starting point — please open issues or PRs with additions, corrections, and links to notable projects.
 
