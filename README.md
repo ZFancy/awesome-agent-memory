@@ -46,6 +46,7 @@ Research Papers:
 - Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [Paper](https://arxiv.org/abs/2510.04618)
 - LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation. [Paper](https://arxiv.org/abs/2510.04851)
 - Auto-scaling Continuous Memory for GUI Agent. [Paper](https://arxiv.org/abs/2510.09038)
+- Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models. [Paper](https://arxiv.org/abs/2508.09874)
 
 TBD
 
