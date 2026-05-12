@@ -51,6 +51,13 @@ Research Papers:
 
 TBD
 
+Open Source Implementations:
+
+- [Dakera MCP](https://github.com/dakera-ai/dakera-mcp) — Self-hosted MCP-native agent memory server. Implements decay-weighted episodic memory with hybrid BM25+HNSW retrieval across agent sessions. 83 MCP tools, 87.8% LoCoMo benchmark, RocksDB persistence, multi-SDK (Python/JS/Rust/Go). Docker Compose deploy, Apache-2.0.
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) — Stateful agents with editable memory blocks and multi-agent shared memory.
+- [Mem0](https://github.com/mem0ai/mem0) — Intelligent memory layer with short/long-term + semantic/episodic support.
+- [Zep](https://github.com/getzep/zep) — Temporal knowledge graph memory with hybrid retrieval (graph + semantic + keyword).
+
 #### Note: this repo is a starting point — please open issues or PRs with additions, corrections, and links to notable projects.
 
 ## Security & privacy
