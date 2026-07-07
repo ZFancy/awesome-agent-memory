@@ -49,6 +49,10 @@ Research Papers:
 - Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models. [Paper](https://arxiv.org/abs/2508.09874)
 - Group-in-Group Policy Optimization for LLM Agent Training. [Paper](https://arxiv.org/abs/2505.10978)
 
+Implementations and tools:
+
+- Tree Ring Memory: Framework-agnostic, local-first Rust CLI memory lifecycle layer for AI agents. It provides project-scoped SQLite/FTS storage, explainable recall, deterministic consolidation, forgetting, redaction, audit, and agent-framework discovery. [Project](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+
 TBD
 
 #### Note: this repo is a starting point — please open issues or PRs with additions, corrections, and links to notable projects.
