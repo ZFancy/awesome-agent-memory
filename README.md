@@ -49,7 +49,9 @@ Research Papers:
 - Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models. [Paper](https://arxiv.org/abs/2508.09874)
 - Group-in-Group Policy Optimization for LLM Agent Training. [Paper](https://arxiv.org/abs/2505.10978)
 
-TBD
+### Agent implementations
+
+- [agent-qa](https://vostride.com) — Web, Android and iOS QA with persistent memidex memory and evidence-validated self-improvement. Reuses verified application facts, cautions and procedures across runs. [Memory design and sources](implementations/agent-qa.md).
 
 #### Note: this repo is a starting point — please open issues or PRs with additions, corrections, and links to notable projects.
 
